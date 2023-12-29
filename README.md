@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi, I'm Md Rownak Hossain Chowdhury! 👋
+🎓 PhD Student in ECE at UMKC
 
-<!--
-**RownakEEE/RownakEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University of Missouri Kansas City
+Specializing in reconfigurable hardware accelerators for AI applications.
+🔬 Graduate Research Assistant
 
-Here are some ideas to get you started:
+Working on cutting-edge research in AI hardware acceleration.
+Passionate about innovating in the field of Electrical and Computer Engineering.
+👨‍🏫 Experience as Graduate Teaching Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Committed to mentoring and educating the next generation of engineers.
+🌐 Technical Skills
+
+Programming Languages: Python, VHDL, Verilog, System Verilog, C++, TCL, Assembly language.
+Hardware Proficiency: Xilinx Vivado, Intel Quartus Prime, ModelSim.
+Cadence Tools: Xcelium IMC, Genus, Conformal, Innovus, Encounter, Tempus.
+Machine Learning Libraries: OpenCV, NumPy, Scikit-learn, Matplotlib, PyTorch, TensorFlow.
+📚 Education
+
+PhD in Electrical and Computer Engineering, UMKC (Expected: May 2028).
+BSc. in Electrical & Electronic Engineering, KUET.
+
+
+
