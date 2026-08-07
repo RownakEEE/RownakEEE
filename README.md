@@ -1,4 +1,4 @@
-# Md. Rownak Hossain Chowdhury
+# Rownak Chowdhury
 
 **Ph.D. Candidate in Electrical and Computer Engineering at UMKC**
 
