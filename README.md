@@ -106,6 +106,11 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 
 <hr>
 
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>🎓 Research & Teaching</h3>
 
 <p>
@@ -113,6 +118,10 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RownakEEE/Teaching"><b>📚 Teaching →</b></a>
 </p>
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>Connect</h3>
 
@@ -123,3 +132,8 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 &nbsp;&nbsp; • &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rownokeee/"><b>LinkedIn</b></a>
 </p>
+
+</td>
+
+</tr>
+</table>
