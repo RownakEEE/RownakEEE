@@ -1,13 +1,13 @@
 <h1>Md. Rownak Hossain Chowdhury</h1>
 
-<p><b>Ph.D. Candidate in Electrical and Computer Engineering at UMKC</b></p>
+<b>Ph.D. Candidate in Electrical and Computer Engineering at UMKC</b>
 
 <p>
-Computer architecture researcher working at the intersection of
-<b>AI accelerators, hardware–software co-design, compiler-guided workload mapping,
-and performance modeling</b>. My research focuses on programmable and reconfigurable
-computing architectures for efficient AI execution, spanning accelerator design,
-memory organization, workload mapping, and hardware-aware evaluation.
+Computer architecture researcher working at the intersection of <b>AI accelerators,
+hardware–software co-design, compiler-guided workload mapping, and performance modeling</b>.<br>
+My research focuses on programmable and reconfigurable computing architectures for efficient
+AI execution, spanning accelerator design, memory organization, workload mapping, and
+hardware-aware evaluation.
 </p>
 
 <hr>
