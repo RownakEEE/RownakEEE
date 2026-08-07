@@ -14,20 +14,22 @@ hardware-aware evaluation.
 
 <h3>Research Areas</h3>
 
-<code>Computer Architecture</code>
-<code>AI Accelerators</code>
-<code>Hardware–Software Co-design</code>
-<code>Mapping & Scheduling</code>
-<code>Memory Systems</code>
-<code>Reconfigurable Computing</code>
-<code>FPGA/ASIC</code>
-
-<br><br>
-
-<h3>🚀 Selected Research Projects</h3>
-
 <table>
 <tr>
+<td align="center"><b>Computer Architecture</b></td>
+<td align="center"><b>AI Accelerators</b></td>
+<td align="center"><b>Hardware–Software Co-design</b></td>
+<td align="center"><b>Mapping & Scheduling</b></td>
+</tr>
+<tr>
+<td align="center"><b>Memory Systems</b></td>
+<td align="center"><b>Reconfigurable Computing</b></td>
+<td align="center"><b>FPGA/ASIC</b></td>
+<td align="center"><b>Hardware Security</b></td>
+</tr>
+</table>
+
+<br>
 
 <td width="50%" valign="top">
 
