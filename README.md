@@ -12,25 +12,22 @@ Computer architecture researcher working at the intersection of **AI accelerator
 
 ### Selected Research Projects
 
-- **[MAVeC](https://github.com/RownakEEE/Research/tree/main/Message-Driven-AI-Accelerator)** — Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
+- **[MAVeC](https://github.com/RownakEEE/Research)** — Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
 - **[InTuiT](https://github.com/RownakEEE/Research)** — Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
 - **[FPGA ECC Crypto Engine](https://github.com/RownakEEE/Research)** — FPGA-based hardware acceleration for elliptic-curve cryptography.
 - **[Low-Power Arithmetic](https://github.com/RownakEEE/Research)** — Logic-reuse and energy-efficient arithmetic architectures for vector and accelerator systems.
 - **[OFFLOAD](https://github.com/RownakEEE/Research)** — Framework for distributing data-intensive and AI workloads across heterogeneous compute units.
 - **[CMOS RF Front-End](https://github.com/RownakEEE/Research)** — CMOS circuit design and analysis for RF transceiver front-end components.
 
-### Technical Expertise
-
-**Programming & HDL:** Python · C/C++ · Verilog · SystemVerilog · VHDL  
-**FPGA & ASIC:** Xilinx Vivado · Intel Quartus Prime · Cadence · Synopsys  
-**AI & Architecture:** CNN/LLM Inference · Workload Mapping · Performance Modeling · Memory Systems
-
 ---
 
-### Explore My Work
+### Research & Teaching
 
-[**Research Portfolio →**](https://github.com/RownakEEE/Research) &nbsp;&nbsp; [**Teaching Portfolio →**](https://github.com/RownakEEE/Teaching)
+[![Research](https://img.shields.io/badge/Research-Projects-0969DA?style=for-the-badge&logo=github)](https://github.com/RownakEEE/Research)
+[![Teaching](https://img.shields.io/badge/Teaching-Courses-0969DA?style=for-the-badge&logo=github)](https://github.com/RownakEEE/Teaching)
 
 ### Connect
 
-[**Website**](https://sites.google.com/view/mdrownakhossain) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/rownakeee/)
+[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/mdrownakhossain)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rownakeee/)
