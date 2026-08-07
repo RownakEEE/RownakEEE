@@ -1,36 +1,29 @@
-<h1>Md. Rownak Hossain Chowdhury</h1>
+# Md. Rownak Hossain Chowdhury
 
-<b>Ph.D. Candidate in Electrical and Computer Engineering at UMKC</b>
+**Ph.D. Candidate in Electrical and Computer Engineering at UMKC**
 
-<p>
-Computer architecture researcher working at the intersection of <b>AI accelerators,
-hardware–software co-design, compiler-guided workload mapping, and performance modeling</b>.<br>
-My research focuses on programmable and reconfigurable computing architectures for efficient
-AI execution, spanning accelerator design, memory organization, workload mapping, and
-hardware-aware evaluation.
-</p>
+Computer architecture researcher working at the intersection of **AI accelerators, hardware–software co-design, compiler-guided workload mapping, and performance modeling**.  
+My research focuses on programmable and reconfigurable computing architectures for efficient AI execution, spanning accelerator design, memory organization, workload mapping, and hardware-aware evaluation.
 
-<hr>
+---
 
 <h3>Research Areas</h3>
 
+<code>Computer Architecture</code>
+<code>AI Accelerators</code>
+<code>Hardware–Software Co-design</code>
+<code>Mapping & Scheduling</code>
+<code>Memory Systems</code>
+<code>Reconfigurable Computing</code>
+<code>FPGA/ASIC</code>
+<code>Hardware Security</code>
+
+<br><br>
+
+<h3>🚀 Selected Research Projects</h3>
+
 <table>
 <tr>
-<td align="center"><b>Computer Architecture</b></td>
-<td align="center"><b>AI Accelerators</b></td>
-<td align="center"><b>Hardware–Software Co-design</b></td>
-<td align="center"><b>Mapping & Scheduling</b></td>
-</tr>
-<tr>
-<td align="center"><b>Memory Systems</b></td>
-<td align="center"><b>Reconfigurable Computing</b></td>
-<td align="center"><b>FPGA/ASIC</b></td>
-<td align="center"><b>Hardware Security</b></td>
-</tr>
-</table>
-
-<br>
-
 <td width="50%" valign="top">
 
 ### ⚙️ [MAVeC](https://github.com/RownakEEE/Research)
@@ -40,7 +33,6 @@ Message-driven reconfigurable accelerator architecture for AI and data-intensive
 [**View Project →**](https://github.com/RownakEEE/Research)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔀 [InTuiT](https://github.com/RownakEEE/Research)
@@ -50,11 +42,9 @@ Architecture-aware AI workload mapping, scheduling, and performance evaluation f
 [**View Project →**](https://github.com/RownakEEE/Research)
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🔐 [FPGA ECC Crypto Engine](https://github.com/RownakEEE/Research)
@@ -64,7 +54,6 @@ FPGA-based hardware acceleration for elliptic-curve cryptography.
 [**View Project →**](https://github.com/RownakEEE/Research)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚡ [Low-Power Arithmetic](https://github.com/RownakEEE/Research)
@@ -74,11 +63,9 @@ Logic-reuse and energy-efficient arithmetic architectures for vector and acceler
 [**View Project →**](https://github.com/RownakEEE/Research)
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### ◈ [OFFLOAD](https://github.com/RownakEEE/Research)
@@ -88,7 +75,6 @@ Framework for distributing data-intensive and AI workloads across heterogeneous 
 [**View Project →**](https://github.com/RownakEEE/Research)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📡 [CMOS RF Front-End](https://github.com/RownakEEE/Research)
@@ -98,31 +84,25 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 [**View Project →**](https://github.com/RownakEEE/Research)
 
 </td>
-
 </tr>
-
 </table>
 
 <p align="center">
-  <a href="https://github.com/RownakEEE/Research"><b>View All Research Projects →</b></a>
+<a href="https://github.com/RownakEEE/Research"><b>View All Research Projects →</b></a>
 </p>
 
-<hr>
+---
 
-<h3>🎓 Research & Teaching</h3>
+### 🎓 Research & Teaching
 
-<p>
-<a href="https://github.com/RownakEEE/Research"><b>🔬 Research →</b></a>
+[**🔬 Research →**](https://github.com/RownakEEE/Research)
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/RownakEEE/Teaching"><b>📚 Teaching →</b></a>
-</p>
+[**📚 Teaching →**](https://github.com/RownakEEE/Teaching)
 
-<h3>Connect</h3>
+### Connect
 
-<p>
-<a href="https://sites.google.com/view/mdrownakhossain"><b>🌐 Website</b></a>
+[**🌐 Website**](https://sites.google.com/view/mdrownakhossain)
 &nbsp;&nbsp; • &nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ"><b>🎓 Google Scholar</b></a>
+[**🎓 Google Scholar**](https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ)
 &nbsp;&nbsp; • &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rownokeee/"><b>LinkedIn</b></a>
-</p>
+[**LinkedIn**](https://www.linkedin.com/in/rownokeee/)
