@@ -121,5 +121,5 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 &nbsp;&nbsp; • &nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ"><b>🎓 Google Scholar</b></a>
 &nbsp;&nbsp; • &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rownakeee/"><b>LinkedIn</b></a>
+<a href="https://www.linkedin.com/in/rownokeee/"><b>LinkedIn</b></a>
 </p>
