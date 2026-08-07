@@ -2,26 +2,32 @@
 
 **Ph.D. Candidate in Electrical and Computer Engineering at UMKC**
 
-Computer architecture researcher working on **AI accelerators, hardware–software co-design, compiler-guided mapping, and performance modeling**. My research explores efficient architectures for AI workloads, with current interests in memory-centric computing, AI inference, and heterogeneous/chiplet-based systems.
+Computer architecture researcher working on **AI accelerators, hardware–software co-design, compiler-guided workload mapping, and performance modeling**. My research focuses on programmable and reconfigurable architectures for efficient AI computing, with interests in memory-centric computing and AI inference.
 
 ### Research Areas
 
 `Computer Architecture` `AI Accelerators` `Hardware–Software Co-design`  
-`Mapping & Scheduling` `Memory Systems` `FPGA/ASIC` `AI Inference`
+`Mapping & Scheduling` `Memory Systems` `Reconfigurable Computing` `FPGA/ASIC`
 
-### Research Projects
+### Selected Research Projects
 
-- **MAVeC** — Message-driven reconfigurable accelerator architecture for AI workloads.
-- **InTuit** — Architecture-aware mapping and performance evaluation framework.
-- **3D Chiplet Systems** — Architectural modeling for energy-efficient heterogeneous integration.
-- **FPGA Cryptography** — Low-latency hardware acceleration for elliptic-curve cryptography.
+- **MAVeC** — Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
+- **InTuiT** — Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
+- **FPGA ECC Crypto Engine** — FPGA-based hardware acceleration for elliptic-curve cryptography.
+- **Low-Power Arithmetic** — Energy-efficient arithmetic architectures for vector and accelerator systems.
+- **OFFLOAD** — Heterogeneous computing framework for distributing data-intensive and AI workloads.
+- **CMOS RF Front-End** — CMOS circuit design and analysis for RF transceiver front-end components.
 
-### Tools & Technologies
+### Technical Expertise
 
 **Languages:** Python · C/C++ · Verilog · SystemVerilog · VHDL  
 **FPGA/ASIC:** Xilinx Vivado · Intel Quartus Prime · Cadence · Synopsys  
-**AI:** PyTorch · TensorFlow · CNN/LLM Inference
+**AI Systems:** CNN/LLM Inference · Workload Mapping · Performance Modeling
 
-### Links
+### Research & Teaching
 
-[Website](https://sites.google.com/view/mdrownakhossain) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rownokeEE/)
+[**Research Portfolio →**](https://github.com/RownakEEE/Research) · [**Teaching Portfolio →**](https://github.com/RownakEEE/Teaching)
+
+### Academic Profiles
+
+[Website](https://sites.google.com/view/mdrownakhossain) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Md-Hossain-1196) · [LinkedIn](https://www.linkedin.com/in/rownakeee/)
