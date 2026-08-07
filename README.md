@@ -2,8 +2,7 @@
 
 **Ph.D. Candidate in Electrical and Computer Engineering at UMKC**
 
-Computer architecture researcher working at the intersection of **AI accelerators, hardware–software co-design, compiler-guided workload mapping, and performance modeling**.  
-My research focuses on programmable and reconfigurable computing architectures for efficient AI execution, spanning accelerator design, memory organization, workload mapping, and hardware-aware evaluation.
+Computer architecture researcher working at the intersection of **AI accelerators, hardware–software co-design, compiler-guided workload mapping, and performance modeling**. My research focuses on programmable and reconfigurable computing architectures for efficient AI execution, spanning accelerator design, memory organization, workload mapping, and hardware-aware evaluation.
 
 ---
 
