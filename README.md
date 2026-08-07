@@ -98,42 +98,21 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 </td>
 
 </tr>
-</table>
 
-<p align="center">
-  <a href="https://github.com/RownakEEE/Research"><b>View All Research Projects →</b></a>
-</p>
+\<h3>🎓 Research & Teaching\</h3>
 
-<hr>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎓 Research & Teaching</h3>
-
-<p>
-<a href="https://github.com/RownakEEE/Research"><b>🔬 Research →</b></a>
+\<p>
+\<a href="[https://github.com/RownakEEE/Research](https://github.com/RownakEEE/Research)">\<b>🔬 Research →\</b>\</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/RownakEEE/Teaching"><b>📚 Teaching →</b></a>
-</p>
+\<a href="[https://github.com/RownakEEE/Teaching](https://github.com/RownakEEE/Teaching)">\<b>📚 Teaching →\</b>\</a>
+\</p>
 
-</td>
+\<h3>Connect\</h3>
 
-<td width="50%" valign="top">
-
-<h3>Connect</h3>
-
-<p>
-<a href="https://sites.google.com/view/mdrownakhossain"><b>🌐 Website</b></a>
+\<p>
+\<a href="[https://sites.google.com/view/mdrownakhossain](https://sites.google.com/view/mdrownakhossain)">\<b>🌐 Website\</b>\</a>
 &nbsp;&nbsp; • &nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ"><b>🎓 Google Scholar</b></a>
+\<a href="[https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ](https://scholar.google.com/citations?hl=en\&user=G44wA1gAAAAJ)">\<b>🎓 Google Scholar\</b>\</a>
 &nbsp;&nbsp; • &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rownokeee/"><b>LinkedIn</b></a>
-</p>
-
-</td>
-
-</tr>
-</table>
+\<a href="[https://www.linkedin.com/in/rownokeee/](https://www.linkedin.com/in/rownokeee/)">\<b>LinkedIn\</b>\</a>
+\</p>
