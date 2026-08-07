@@ -1,33 +1,125 @@
-# Md. Rownak Hossain Chowdhury
+<h1>Md. Rownak Hossain Chowdhury</h1>
 
-**Ph.D. Candidate in Electrical and Computer Engineering at UMKC**
+<p><b>Ph.D. Candidate in Electrical and Computer Engineering at UMKC</b></p>
 
-Computer architecture researcher working at the intersection of **AI accelerators, hardware–software co-design, compiler-guided workload mapping, and performance modeling**. My research focuses on programmable and reconfigurable computing architectures for efficient AI execution, spanning accelerator design, memory organization, workload mapping, and hardware-aware evaluation.
+<p>
+Computer architecture researcher working at the intersection of
+<b>AI accelerators, hardware–software co-design, compiler-guided workload mapping,
+and performance modeling</b>. My research focuses on programmable and reconfigurable
+computing architectures for efficient AI execution, spanning accelerator design,
+memory organization, workload mapping, and hardware-aware evaluation.
+</p>
 
----
+<hr>
 
-### Research Areas
+<h3>Research Areas</h3>
 
-`Computer Architecture` `AI Accelerators` `Hardware–Software Co-design` `Mapping & Scheduling` `Memory Systems` `Reconfigurable Computing` `FPGA/ASIC`
+<code>Computer Architecture</code>
+<code>AI Accelerators</code>
+<code>Hardware–Software Co-design</code>
+<code>Mapping & Scheduling</code>
+<code>Memory Systems</code>
+<code>Reconfigurable Computing</code>
+<code>FPGA/ASIC</code>
 
-### Selected Research Projects
+<br><br>
 
-- **[MAVeC](https://github.com/RownakEEE/Research)** — Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
-- **[InTuiT](https://github.com/RownakEEE/Research)** — Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
-- **[FPGA ECC Crypto Engine](https://github.com/RownakEEE/Research)** — FPGA-based hardware acceleration for elliptic-curve cryptography.
-- **[Low-Power Arithmetic](https://github.com/RownakEEE/Research)** — Logic-reuse and energy-efficient arithmetic architectures for vector and accelerator systems.
-- **[OFFLOAD](https://github.com/RownakEEE/Research)** — Framework for distributing data-intensive and AI workloads across heterogeneous compute units.
-- **[CMOS RF Front-End](https://github.com/RownakEEE/Research)** — CMOS circuit design and analysis for RF transceiver front-end components.
+<h3>🚀 Selected Research Projects</h3>
 
----
+<table>
+<tr>
 
-### Research & Teaching
+<td width="50%" valign="top">
 
-[![Research](https://img.shields.io/badge/Research-Projects-0969DA?style=for-the-badge&logo=github)](https://github.com/RownakEEE/Research)
-[![Teaching](https://img.shields.io/badge/Teaching-Courses-0969DA?style=for-the-badge&logo=github)](https://github.com/RownakEEE/Teaching)
+### ⚙️ [MAVeC](https://github.com/RownakEEE/Research)
 
-### Connect
+Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
 
-[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://sites.google.com/view/mdrownakhossain)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rownokeee/)
+[**View Project →**](https://github.com/RownakEEE/Research)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔀 [InTuiT](https://github.com/RownakEEE/Research)
+
+Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
+
+[**View Project →**](https://github.com/RownakEEE/Research)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 [FPGA ECC Crypto Engine](https://github.com/RownakEEE/Research)
+
+FPGA-based hardware acceleration for elliptic-curve cryptography.
+
+[**View Project →**](https://github.com/RownakEEE/Research)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [Low-Power Arithmetic](https://github.com/RownakEEE/Research)
+
+Logic-reuse and energy-efficient arithmetic architectures for vector and accelerator systems.
+
+[**View Project →**](https://github.com/RownakEEE/Research)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ◈ [OFFLOAD](https://github.com/RownakEEE/Research)
+
+Framework for distributing data-intensive and AI workloads across heterogeneous compute units.
+
+[**View Project →**](https://github.com/RownakEEE/Research)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📡 [CMOS RF Front-End](https://github.com/RownakEEE/Research)
+
+CMOS circuit design and analysis for RF transceiver front-end components.
+
+[**View Project →**](https://github.com/RownakEEE/Research)
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/RownakEEE/Research"><b>View All Research Projects →</b></a>
+</p>
+
+<hr>
+
+<h3>🎓 Research & Teaching</h3>
+
+<p>
+<a href="https://github.com/RownakEEE/Research"><b>🔬 Research →</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RownakEEE/Teaching"><b>📚 Teaching →</b></a>
+</p>
+
+<h3>Connect</h3>
+
+<p>
+<a href="https://sites.google.com/view/mdrownakhossain"><b>🌐 Website</b></a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=G44wA1gAAAAJ"><b>🎓 Google Scholar</b></a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rownakeee/"><b>LinkedIn</b></a>
+</p>
