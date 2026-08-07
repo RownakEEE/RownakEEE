@@ -106,7 +106,7 @@ CMOS circuit design and analysis for RF transceiver front-end components.
 
 <hr>
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="50%" valign="top">
