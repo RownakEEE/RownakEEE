@@ -25,7 +25,7 @@ Computer architecture researcher working at the intersection of **AI accelerator
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [MAVeC](https://github.com/RownakEEE/Research)
+### ⚙️ [MAVeC](https://github.com/RownakEEE/Research/tree/main/Message-Driven-AI-Accelerator)
 
 Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
 
