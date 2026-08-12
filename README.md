@@ -29,16 +29,16 @@ Computer architecture researcher working at the intersection of **AI accelerator
 
 Message-driven reconfigurable accelerator architecture for AI and data-intensive workloads.
 
-[**View Project →**](https://github.com/RownakEEE/Research)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/Message-Driven-AI-Accelerator)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔀 [InTuiT](https://github.com/RownakEEE/Research)
+### 🔀 [InTuiT](https://github.com/RownakEEE/Research/tree/main/InTuiT: Architecture-Aware AI Workload Mapper)
 
 Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
 
-[**View Project →**](https://github.com/RownakEEE/Research)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/InTuiT: Architecture-Aware AI Workload Mapper)
 
 </td>
 </tr>
