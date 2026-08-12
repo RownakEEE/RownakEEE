@@ -46,20 +46,20 @@ Architecture-aware AI workload mapping, scheduling, and performance evaluation f
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [FPGA ECC Crypto Engine](https://github.com/RownakEEE/Research)
+### 🔐 [FPGA ECC Crypto Engine](https://github.com/RownakEEE/Research/tree/main/FPGA-ECC-Crypto-Engine)
 
 FPGA-based hardware acceleration for elliptic-curve cryptography.
 
-[**View Project →**](https://github.com/RownakEEE/Research)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/FPGA-ECC-Crypto-Engine)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Low-Power Arithmetic](https://github.com/RownakEEE/Research)
+### ⚡ [Low-Power Arithmetic](https://github.com/RownakEEE/Research/tree/main/Low-Power-Arithmetic)
 
 Logic-reuse and energy-efficient arithmetic architectures for vector and accelerator systems.
 
-[**View Project →**](https://github.com/RownakEEE/Research)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/Low-Power-Arithmetic)
 
 </td>
 </tr>
@@ -67,20 +67,20 @@ Logic-reuse and energy-efficient arithmetic architectures for vector and acceler
 <tr>
 <td width="50%" valign="top">
 
-### ◈ [OFFLOAD](https://github.com/RownakEEE/Research)
+### ◈ [OFFLOAD](https://github.com/RownakEEE/Research/tree/main/OFFLOAD)
 
 Framework for distributing data-intensive and AI workloads across heterogeneous compute units.
 
-[**View Project →**](https://github.com/RownakEEE/Research)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/OFFLOAD)
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 [CMOS RF Front-End](https://github.com/RownakEEE/Research)
+### 📡 [CMOS RF Front-End](https://github.com/RownakEEE/Research/tree/main/CMOS-Analog-RF-Circuit-Design)
 
 CMOS circuit design and analysis for RF transceiver front-end components.
 
-[**View Project →**](https://github.com/RownakEEE/Research)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/CMOS-Analog-RF-Circuit-Design)
 
 </td>
 </tr>
