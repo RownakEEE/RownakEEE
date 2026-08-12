@@ -34,11 +34,11 @@ Message-driven reconfigurable accelerator architecture for AI and data-intensive
 </td>
 <td width="50%" valign="top">
 
-### 🔀 [InTuiT](https://github.com/RownakEEE/Research/tree/main/InTuiT:Architecture-Aware-AI-Workload-Mapper)
+### 🔀 [InTuiT](https://github.com/RownakEEE/Research/tree/main/InTuit%3A%20Architecture-Aware%20AI%20Workload%20Mapper)
 
 Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
 
-[**View Project →**](https://github.com/RownakEEE/Research/tree/main/InTuiT:Architecture-Aware-AI-Workload-Mapper)
+[**View Project →**](https://github.com/RownakEEE/Research/tree/main/InTuit%3A%20Architecture-Aware%20AI%20Workload%20Mapper)
 
 </td>
 </tr>
